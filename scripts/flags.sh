@@ -3,7 +3,7 @@
 function usage() {
     cat <<USAGE
 
-    Usage: $0 [--flag1 flag1] [--flag2 flag2]
+    Usage: ./flags.sh [--flag1 flag1] [--flag2 flag2]
 
     Options:
         -f1, --flag1: Using flag1
